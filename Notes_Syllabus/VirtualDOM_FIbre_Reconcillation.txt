@@ -1,0 +1,18 @@
+create Root create virtual DOM (createRoot)method
+DOM -> tree-Like-Structure
+
+React Fiber is like a new and improved engine for React, 
+the popular JavaScript library. It's built to make things like animations and layouts smoother. 
+The standout feature is that it can break down tasks into smaller pieces and work on them bit by bit,
+ making things feel faster.
+It also has some handy abilities like pausing or stopping tasks and deciding which tasks are more important.
+In simple terms, it's like giving React a turbo boost for better performance, especially when dealing with dynamic 
+and interactive elements on a website.
+
+
+
+Reconciliation in React is like a smart process that figures out what parts of a webpage need to change when you update your app. 
+When you make a change (like clicking a button), React doesn't redo everything from scratch—it calculates the most efficient way to update
+only the necessary parts, making your app work fast and smoothly. This clever process is what people often refer to as the "virtual DOM."
+So, reconciliation is like React's behind-the-scenes worker that keeps your app looking fresh without wasting resources.
+
